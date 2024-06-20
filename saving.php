@@ -123,7 +123,7 @@
                     <img src="office.jpg" style="border-radius: 100%;width: 350px; height: 350px;">
                 </div>
                 <div class="col-3">
-                    <img src="book.jpg" style="border-radius: 100%; width: 350px; height: 350px;">
+                    <img src="b1.jpg" style="border-radius: 100%; width: 350px; height: 350px;">
                 </div>
                 <div class="col-3"></div>
             </div>
